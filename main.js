@@ -1,5 +1,5 @@
 let fs = require("fs")
-let program = require("./day12.js")
+let program = require("./day13.js")
 
 fs.readFile('./input.txt', "utf8",function (err, data) {
     if (err) {
